@@ -26,8 +26,8 @@ public class SinglePhotoShareController:MonoBehaviour  {
 
 	public IEnumerator saveImageToGallery(){
 		Texture2D texture2D = texturaActual;
-		string title= "Uatau_"+System.DateTime.Now.ToString("yyyy-MM-dd-HHmmss");
-		string description="Festival UATAU '18 Club Universitario, Bahía Blanca";
+		string title= "MuestraCarreras2018"+System.DateTime.Now.ToString("yyyy-MM-dd-HHmmss");
+		string description="Muestra de Carreras 2018 DCIC";
 		yield return new WaitForEndOfFrame();
 		using (var mediaClass = new AndroidJavaClass(MediaStoreImagesMediaClass))
 		{
@@ -123,8 +123,8 @@ public class SinglePhotoShareController:MonoBehaviour  {
 			intentObject.Call<AndroidJavaObject>("putExtra", intentClass.GetStatic<string>("EXTRA_STREAM"), uriObject);
 
 			intentObject.Call<AndroidJavaObject> ("setType", "text/plain");
-			intentObject.Call<AndroidJavaObject>("putExtra", intentClass.GetStatic<string>("EXTRA_TEXT"), "Festival UATAU '18 Club Universitario, Bahía Blanca");
-			intentObject.Call<AndroidJavaObject>("putExtra", intentClass.GetStatic<string>("EXTRA_SUBJECT"), "UATAU 2018");
+			intentObject.Call<AndroidJavaObject>("putExtra", intentClass.GetStatic<string>("EXTRA_TEXT"), "Muestra de Carreras DCIC 2018, Bahía Blanca");
+			intentObject.Call<AndroidJavaObject>("putExtra", intentClass.GetStatic<string>("EXTRA_SUBJECT"), "DCIC 2018");
 
 			intentObject.Call<AndroidJavaObject>("setType", "*/*");
 			AndroidJavaClass unity = new AndroidJavaClass("com.unity3d.player.UnityPlayer");

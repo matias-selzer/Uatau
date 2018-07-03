@@ -5,6 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/EscenaUatau.unity
     guid: 10fa7f4847f5fe0409201519cbb65c24
+  - enabled: 1
+    path: Assets/Scenes/MuestraCarreras.unity
+    guid: 3b5d8111650cdb44baa72cb5064d72b6
+  m_configObjects: {}
