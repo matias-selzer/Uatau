@@ -117,7 +117,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 2.0
+  bundleVersion: 3.0
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -153,9 +153,9 @@ PlayerSettings:
     Android: com.matiasselzer.muestra2018
     Standalone: com.mati.muestraDCIC2018
   buildNumber: {}
-  AndroidBundleVersionCode: 2
+  AndroidBundleVersionCode: 3
   AndroidMinSdkVersion: 16
-  AndroidTargetSdkVersion: 0
+  AndroidTargetSdkVersion: 26
   AndroidPreferredInstallLocation: 1
   aotOptions: 
   stripEngineCode: 1
@@ -241,8 +241,8 @@ PlayerSettings:
   AndroidTargetArchitectures: 1
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: C:/Users/mselzer/Documents/GitHub/SacarFotosMuestra/Uatau/Uatau/Releases/muestra.keystore
-  AndroidKeyaliasName: 
+  AndroidKeystoreName: C:/Users/mselzer/Documents/GitHub/SacarFotosMuestra/Uatau/Uatau/Releases/matias.keystore
+  AndroidKeyaliasName: uatau
   AndroidTVCompatibility: 0
   AndroidIsGame: 0
   AndroidEnableTango: 0
