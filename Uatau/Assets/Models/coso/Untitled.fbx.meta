@@ -1,0 +1,1026 @@
+fileFormatVersion: 2
+guid: 41a6e82601cd14f4fa96124b1526cd28
+timeCreated: 1526671083
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BakedMesh
+    100002: HomeViewpoint
+    100004: HomeViewpoint 1
+    100006: NewAudio1
+    100008: NewAudio1 1
+    100010: NewSangChong1
+    100012: NewSangChong1 1
+    100014: NewSangChong10
+    100016: NewSangChong10 1
+    100018: NewSangChong10_0000
+    100020: NewSangChong10_0000 1
+    100022: NewSangChong11
+    100024: NewSangChong11 1
+    100026: NewSangChong11_0000
+    100028: NewSangChong11_0000 1
+    100030: NewSangChong12
+    100032: NewSangChong12 1
+    100034: NewSangChong12_0000
+    100036: NewSangChong12_0000 1
+    100038: NewSangChong13
+    100040: NewSangChong13 1
+    100042: NewSangChong13_0000
+    100044: NewSangChong13_0000 1
+    100046: NewSangChong14
+    100048: NewSangChong14 1
+    100050: NewSangChong14_0000
+    100052: NewSangChong14_0000 1
+    100054: NewSangChong15
+    100056: NewSangChong15 1
+    100058: NewSangChong15_0000
+    100060: NewSangChong15_0000 1
+    100062: NewSangChong16
+    100064: NewSangChong16 1
+    100066: NewSangChong16_0000
+    100068: NewSangChong16_0000 1
+    100070: NewSangChong17
+    100072: NewSangChong17 1
+    100074: NewSangChong17_0000
+    100076: NewSangChong17_0000 1
+    100078: NewSangChong18
+    100080: NewSangChong18 1
+    100082: NewSangChong18_0000
+    100084: NewSangChong18_0000 1
+    100086: NewSangChong19
+    100088: NewSangChong19 1
+    100090: NewSangChong19_0000
+    100092: NewSangChong19_0000 1
+    100094: NewSangChong1_0000
+    100096: NewSangChong1_0000 1
+    100098: NewSangChong2
+    100100: NewSangChong2 1
+    100102: NewSangChong20
+    100104: NewSangChong20 1
+    100106: NewSangChong20_0000
+    100108: NewSangChong20_0000 1
+    100110: NewSangChong21
+    100112: NewSangChong21 1
+    100114: NewSangChong21_0000
+    100116: NewSangChong21_0000 1
+    100118: NewSangChong22
+    100120: NewSangChong22 1
+    100122: NewSangChong22_0000
+    100124: NewSangChong22_0000 1
+    100126: NewSangChong23
+    100128: NewSangChong23 1
+    100130: NewSangChong23_0000
+    100132: NewSangChong23_0000 1
+    100134: NewSangChong24
+    100136: NewSangChong24 1
+    100138: NewSangChong24_0000
+    100140: NewSangChong24_0000 1
+    100142: NewSangChong25
+    100144: NewSangChong25 1
+    100146: NewSangChong25_0000
+    100148: NewSangChong25_0000 1
+    100150: NewSangChong26
+    100152: NewSangChong26 1
+    100154: NewSangChong26_0000
+    100156: NewSangChong26_0000 1
+    100158: NewSangChong27
+    100160: NewSangChong27 1
+    100162: NewSangChong27_0000
+    100164: NewSangChong27_0000 1
+    100166: NewSangChong28
+    100168: NewSangChong28 1
+    100170: NewSangChong28_0000
+    100172: NewSangChong28_0000 1
+    100174: NewSangChong29
+    100176: NewSangChong29 1
+    100178: NewSangChong29_0000
+    100180: NewSangChong29_0000 1
+    100182: NewSangChong2_0000
+    100184: NewSangChong2_0000 1
+    100186: NewSangChong3
+    100188: NewSangChong3 1
+    100190: NewSangChong32
+    100192: NewSangChong32 1
+    100194: NewSangChong32_0000
+    100196: NewSangChong32_0000 1
+    100198: NewSangChong33
+    100200: NewSangChong33 1
+    100202: NewSangChong33_0000
+    100204: NewSangChong33_0000 1
+    100206: NewSangChong34
+    100208: NewSangChong34 1
+    100210: NewSangChong34_0000
+    100212: NewSangChong34_0000 1
+    100214: NewSangChong35
+    100216: NewSangChong35 1
+    100218: NewSangChong35_0000
+    100220: NewSangChong35_0000 1
+    100222: NewSangChong36
+    100224: NewSangChong36 1
+    100226: NewSangChong36_0000
+    100228: NewSangChong36_0000 1
+    100230: NewSangChong37
+    100232: NewSangChong37 1
+    100234: NewSangChong37_0000
+    100236: NewSangChong37_0000 1
+    100238: NewSangChong38
+    100240: NewSangChong38 1
+    100242: NewSangChong38_0000
+    100244: NewSangChong38_0000 1
+    100246: NewSangChong39
+    100248: NewSangChong39 1
+    100250: NewSangChong39_0000
+    100252: NewSangChong39_0000 1
+    100254: NewSangChong3_0000
+    100256: NewSangChong3_0000 1
+    100258: NewSangChong4
+    100260: NewSangChong4 1
+    100262: NewSangChong40
+    100264: NewSangChong40 1
+    100266: NewSangChong40_0000
+    100268: NewSangChong40_0000 1
+    100270: NewSangChong42
+    100272: NewSangChong42 1
+    100274: NewSangChong42_0000
+    100276: NewSangChong42_0000 1
+    100278: NewSangChong43
+    100280: NewSangChong43 1
+    100282: NewSangChong43_0000
+    100284: NewSangChong43_0000 1
+    100286: NewSangChong46
+    100288: NewSangChong46 1
+    100290: NewSangChong46_0000
+    100292: NewSangChong46_0000 1
+    100294: NewSangChong47
+    100296: NewSangChong47 1
+    100298: NewSangChong47_0000
+    100300: NewSangChong47_0000 1
+    100302: NewSangChong48
+    100304: NewSangChong48 1
+    100306: NewSangChong48_0000
+    100308: NewSangChong48_0000 1
+    100310: NewSangChong49
+    100312: NewSangChong49 1
+    100314: NewSangChong49_0000
+    100316: NewSangChong49_0000 1
+    100318: NewSangChong4_0000
+    100320: NewSangChong4_0000 1
+    100322: NewSangChong5
+    100324: NewSangChong5 1
+    100326: NewSangChong50
+    100328: NewSangChong50 1
+    100330: NewSangChong50_0000
+    100332: NewSangChong50_0000 1
+    100334: NewSangChong51
+    100336: NewSangChong51 1
+    100338: NewSangChong51_0000
+    100340: NewSangChong51_0000 1
+    100342: NewSangChong52
+    100344: NewSangChong52 1
+    100346: NewSangChong52_0000
+    100348: NewSangChong52_0000 1
+    100350: NewSangChong53
+    100352: NewSangChong53 1
+    100354: NewSangChong53_0000
+    100356: NewSangChong53_0000 1
+    100358: NewSangChong55
+    100360: NewSangChong55 1
+    100362: NewSangChong55_0000
+    100364: NewSangChong55_0000 1
+    100366: NewSangChong56
+    100368: NewSangChong56 1
+    100370: NewSangChong56_0000
+    100372: NewSangChong56_0000 1
+    100374: NewSangChong57
+    100376: NewSangChong57 1
+    100378: NewSangChong57_0000
+    100380: NewSangChong57_0000 1
+    100382: NewSangChong58
+    100384: NewSangChong58 1
+    100386: NewSangChong58_0000
+    100388: NewSangChong58_0000 1
+    100390: NewSangChong59
+    100392: NewSangChong59 1
+    100394: NewSangChong59_0000
+    100396: NewSangChong59_0000 1
+    100398: NewSangChong5_0000
+    100400: NewSangChong5_0000 1
+    100402: NewSangChong6
+    100404: NewSangChong6 1
+    100406: NewSangChong60
+    100408: NewSangChong60 1
+    100410: NewSangChong60_0000
+    100412: NewSangChong60_0000 1
+    100414: NewSangChong61
+    100416: NewSangChong61 1
+    100418: NewSangChong61_0000
+    100420: NewSangChong61_0000 1
+    100422: NewSangChong62
+    100424: NewSangChong62 1
+    100426: NewSangChong62_0000
+    100428: NewSangChong62_0000 1
+    100430: NewSangChong63
+    100432: NewSangChong63 1
+    100434: NewSangChong63_0000
+    100436: NewSangChong63_0000 1
+    100438: NewSangChong64
+    100440: NewSangChong64 1
+    100442: NewSangChong64_0000
+    100444: NewSangChong64_0000 1
+    100446: NewSangChong65
+    100448: NewSangChong65 1
+    100450: NewSangChong65_0000
+    100452: NewSangChong65_0000 1
+    100454: NewSangChong66
+    100456: NewSangChong66 1
+    100458: NewSangChong66_0000
+    100460: NewSangChong66_0000 1
+    100462: NewSangChong67
+    100464: NewSangChong67 1
+    100466: NewSangChong67_0000
+    100468: NewSangChong67_0000 1
+    100470: NewSangChong68
+    100472: NewSangChong68 1
+    100474: NewSangChong68_0000
+    100476: NewSangChong68_0000 1
+    100478: NewSangChong69
+    100480: NewSangChong69 1
+    100482: NewSangChong69_0000
+    100484: NewSangChong69_0000 1
+    100486: NewSangChong6_0000
+    100488: NewSangChong6_0000 1
+    100490: NewSangChong70
+    100492: NewSangChong70 1
+    100494: NewSangChong70_0000
+    100496: NewSangChong70_0000 1
+    100498: NewSangChong71
+    100500: NewSangChong71 1
+    100502: NewSangChong71_0000
+    100504: NewSangChong71_0000 1
+    100506: NewSangChong72
+    100508: NewSangChong72 1
+    100510: NewSangChong72_0000
+    100512: NewSangChong72_0000 1
+    100514: NewSangChong73
+    100516: NewSangChong73 1
+    100518: NewSangChong73_0000
+    100520: NewSangChong73_0000 1
+    100522: NewSangChong74
+    100524: NewSangChong74 1
+    100526: NewSangChong74_0000
+    100528: NewSangChong74_0000 1
+    100530: NewSangChong75
+    100532: NewSangChong75 1
+    100534: NewSangChong75_0000
+    100536: NewSangChong75_0000 1
+    100538: NewSangChong76
+    100540: NewSangChong76 1
+    100542: NewSangChong76_0000
+    100544: NewSangChong76_0000 1
+    100546: NewSangChong77
+    100548: NewSangChong77 1
+    100550: NewSangChong77_0000
+    100552: NewSangChong77_0000 1
+    100554: NewSangChong78
+    100556: NewSangChong78 1
+    100558: NewSangChong78_0000
+    100560: NewSangChong78_0000 1
+    100562: NewSangChong79
+    100564: NewSangChong79 1
+    100566: NewSangChong79_0000
+    100568: NewSangChong79_0000 1
+    100570: NewSangChong8
+    100572: NewSangChong8 1
+    100574: NewSangChong80
+    100576: NewSangChong80 1
+    100578: NewSangChong80_0000
+    100580: NewSangChong80_0000 1
+    100582: NewSangChong82
+    100584: NewSangChong82 1
+    100586: NewSangChong82_0000
+    100588: NewSangChong82_0000 1
+    100590: NewSangChong83
+    100592: NewSangChong83 1
+    100594: NewSangChong83_0000
+    100596: NewSangChong83_0000 1
+    100598: NewSangChong85
+    100600: NewSangChong85 1
+    100602: NewSangChong85_0000
+    100604: NewSangChong85_0000 1
+    100606: NewSangChong86
+    100608: NewSangChong86 1
+    100610: NewSangChong86_0000
+    100612: NewSangChong86_0000 1
+    100614: NewSangChong87
+    100616: NewSangChong87 1
+    100618: NewSangChong87_0000
+    100620: NewSangChong87_0000 1
+    100622: NewSangChong88
+    100624: NewSangChong88 1
+    100626: NewSangChong88_0000
+    100628: NewSangChong88_0000 1
+    100630: NewSangChong89
+    100632: NewSangChong89 1
+    100634: NewSangChong89_0000
+    100636: NewSangChong89_0000 1
+    100638: NewSangChong8_0000
+    100640: NewSangChong8_0000 1
+    100642: NewSangChong9
+    100644: NewSangChong9 1
+    100646: NewSangChong90
+    100648: NewSangChong90 1
+    100650: NewSangChong90_0000
+    100652: NewSangChong90_0000 1
+    100654: NewSangChong91
+    100656: NewSangChong91 1
+    100658: NewSangChong91_0000
+    100660: NewSangChong91_0000 1
+    100662: NewSangChong92
+    100664: NewSangChong92 1
+    100666: NewSangChong92_0000
+    100668: NewSangChong92_0000 1
+    100670: NewSangChong9_0000
+    100672: NewSangChong9_0000 1
+    100674: Root
+    100676: Root 1
+    100678: SourceData
+    100680: //RootNode
+    400000: BakedMesh
+    400002: HomeViewpoint
+    400004: HomeViewpoint 1
+    400006: NewAudio1
+    400008: NewAudio1 1
+    400010: NewSangChong1
+    400012: NewSangChong1 1
+    400014: NewSangChong10
+    400016: NewSangChong10 1
+    400018: NewSangChong10_0000
+    400020: NewSangChong10_0000 1
+    400022: NewSangChong11
+    400024: NewSangChong11 1
+    400026: NewSangChong11_0000
+    400028: NewSangChong11_0000 1
+    400030: NewSangChong12
+    400032: NewSangChong12 1
+    400034: NewSangChong12_0000
+    400036: NewSangChong12_0000 1
+    400038: NewSangChong13
+    400040: NewSangChong13 1
+    400042: NewSangChong13_0000
+    400044: NewSangChong13_0000 1
+    400046: NewSangChong14
+    400048: NewSangChong14 1
+    400050: NewSangChong14_0000
+    400052: NewSangChong14_0000 1
+    400054: NewSangChong15
+    400056: NewSangChong15 1
+    400058: NewSangChong15_0000
+    400060: NewSangChong15_0000 1
+    400062: NewSangChong16
+    400064: NewSangChong16 1
+    400066: NewSangChong16_0000
+    400068: NewSangChong16_0000 1
+    400070: NewSangChong17
+    400072: NewSangChong17 1
+    400074: NewSangChong17_0000
+    400076: NewSangChong17_0000 1
+    400078: NewSangChong18
+    400080: NewSangChong18 1
+    400082: NewSangChong18_0000
+    400084: NewSangChong18_0000 1
+    400086: NewSangChong19
+    400088: NewSangChong19 1
+    400090: NewSangChong19_0000
+    400092: NewSangChong19_0000 1
+    400094: NewSangChong1_0000
+    400096: NewSangChong1_0000 1
+    400098: NewSangChong2
+    400100: NewSangChong2 1
+    400102: NewSangChong20
+    400104: NewSangChong20 1
+    400106: NewSangChong20_0000
+    400108: NewSangChong20_0000 1
+    400110: NewSangChong21
+    400112: NewSangChong21 1
+    400114: NewSangChong21_0000
+    400116: NewSangChong21_0000 1
+    400118: NewSangChong22
+    400120: NewSangChong22 1
+    400122: NewSangChong22_0000
+    400124: NewSangChong22_0000 1
+    400126: NewSangChong23
+    400128: NewSangChong23 1
+    400130: NewSangChong23_0000
+    400132: NewSangChong23_0000 1
+    400134: NewSangChong24
+    400136: NewSangChong24 1
+    400138: NewSangChong24_0000
+    400140: NewSangChong24_0000 1
+    400142: NewSangChong25
+    400144: NewSangChong25 1
+    400146: NewSangChong25_0000
+    400148: NewSangChong25_0000 1
+    400150: NewSangChong26
+    400152: NewSangChong26 1
+    400154: NewSangChong26_0000
+    400156: NewSangChong26_0000 1
+    400158: NewSangChong27
+    400160: NewSangChong27 1
+    400162: NewSangChong27_0000
+    400164: NewSangChong27_0000 1
+    400166: NewSangChong28
+    400168: NewSangChong28 1
+    400170: NewSangChong28_0000
+    400172: NewSangChong28_0000 1
+    400174: NewSangChong29
+    400176: NewSangChong29 1
+    400178: NewSangChong29_0000
+    400180: NewSangChong29_0000 1
+    400182: NewSangChong2_0000
+    400184: NewSangChong2_0000 1
+    400186: NewSangChong3
+    400188: NewSangChong3 1
+    400190: NewSangChong32
+    400192: NewSangChong32 1
+    400194: NewSangChong32_0000
+    400196: NewSangChong32_0000 1
+    400198: NewSangChong33
+    400200: NewSangChong33 1
+    400202: NewSangChong33_0000
+    400204: NewSangChong33_0000 1
+    400206: NewSangChong34
+    400208: NewSangChong34 1
+    400210: NewSangChong34_0000
+    400212: NewSangChong34_0000 1
+    400214: NewSangChong35
+    400216: NewSangChong35 1
+    400218: NewSangChong35_0000
+    400220: NewSangChong35_0000 1
+    400222: NewSangChong36
+    400224: NewSangChong36 1
+    400226: NewSangChong36_0000
+    400228: NewSangChong36_0000 1
+    400230: NewSangChong37
+    400232: NewSangChong37 1
+    400234: NewSangChong37_0000
+    400236: NewSangChong37_0000 1
+    400238: NewSangChong38
+    400240: NewSangChong38 1
+    400242: NewSangChong38_0000
+    400244: NewSangChong38_0000 1
+    400246: NewSangChong39
+    400248: NewSangChong39 1
+    400250: NewSangChong39_0000
+    400252: NewSangChong39_0000 1
+    400254: NewSangChong3_0000
+    400256: NewSangChong3_0000 1
+    400258: NewSangChong4
+    400260: NewSangChong4 1
+    400262: NewSangChong40
+    400264: NewSangChong40 1
+    400266: NewSangChong40_0000
+    400268: NewSangChong40_0000 1
+    400270: NewSangChong42
+    400272: NewSangChong42 1
+    400274: NewSangChong42_0000
+    400276: NewSangChong42_0000 1
+    400278: NewSangChong43
+    400280: NewSangChong43 1
+    400282: NewSangChong43_0000
+    400284: NewSangChong43_0000 1
+    400286: NewSangChong46
+    400288: NewSangChong46 1
+    400290: NewSangChong46_0000
+    400292: NewSangChong46_0000 1
+    400294: NewSangChong47
+    400296: NewSangChong47 1
+    400298: NewSangChong47_0000
+    400300: NewSangChong47_0000 1
+    400302: NewSangChong48
+    400304: NewSangChong48 1
+    400306: NewSangChong48_0000
+    400308: NewSangChong48_0000 1
+    400310: NewSangChong49
+    400312: NewSangChong49 1
+    400314: NewSangChong49_0000
+    400316: NewSangChong49_0000 1
+    400318: NewSangChong4_0000
+    400320: NewSangChong4_0000 1
+    400322: NewSangChong5
+    400324: NewSangChong5 1
+    400326: NewSangChong50
+    400328: NewSangChong50 1
+    400330: NewSangChong50_0000
+    400332: NewSangChong50_0000 1
+    400334: NewSangChong51
+    400336: NewSangChong51 1
+    400338: NewSangChong51_0000
+    400340: NewSangChong51_0000 1
+    400342: NewSangChong52
+    400344: NewSangChong52 1
+    400346: NewSangChong52_0000
+    400348: NewSangChong52_0000 1
+    400350: NewSangChong53
+    400352: NewSangChong53 1
+    400354: NewSangChong53_0000
+    400356: NewSangChong53_0000 1
+    400358: NewSangChong55
+    400360: NewSangChong55 1
+    400362: NewSangChong55_0000
+    400364: NewSangChong55_0000 1
+    400366: NewSangChong56
+    400368: NewSangChong56 1
+    400370: NewSangChong56_0000
+    400372: NewSangChong56_0000 1
+    400374: NewSangChong57
+    400376: NewSangChong57 1
+    400378: NewSangChong57_0000
+    400380: NewSangChong57_0000 1
+    400382: NewSangChong58
+    400384: NewSangChong58 1
+    400386: NewSangChong58_0000
+    400388: NewSangChong58_0000 1
+    400390: NewSangChong59
+    400392: NewSangChong59 1
+    400394: NewSangChong59_0000
+    400396: NewSangChong59_0000 1
+    400398: NewSangChong5_0000
+    400400: NewSangChong5_0000 1
+    400402: NewSangChong6
+    400404: NewSangChong6 1
+    400406: NewSangChong60
+    400408: NewSangChong60 1
+    400410: NewSangChong60_0000
+    400412: NewSangChong60_0000 1
+    400414: NewSangChong61
+    400416: NewSangChong61 1
+    400418: NewSangChong61_0000
+    400420: NewSangChong61_0000 1
+    400422: NewSangChong62
+    400424: NewSangChong62 1
+    400426: NewSangChong62_0000
+    400428: NewSangChong62_0000 1
+    400430: NewSangChong63
+    400432: NewSangChong63 1
+    400434: NewSangChong63_0000
+    400436: NewSangChong63_0000 1
+    400438: NewSangChong64
+    400440: NewSangChong64 1
+    400442: NewSangChong64_0000
+    400444: NewSangChong64_0000 1
+    400446: NewSangChong65
+    400448: NewSangChong65 1
+    400450: NewSangChong65_0000
+    400452: NewSangChong65_0000 1
+    400454: NewSangChong66
+    400456: NewSangChong66 1
+    400458: NewSangChong66_0000
+    400460: NewSangChong66_0000 1
+    400462: NewSangChong67
+    400464: NewSangChong67 1
+    400466: NewSangChong67_0000
+    400468: NewSangChong67_0000 1
+    400470: NewSangChong68
+    400472: NewSangChong68 1
+    400474: NewSangChong68_0000
+    400476: NewSangChong68_0000 1
+    400478: NewSangChong69
+    400480: NewSangChong69 1
+    400482: NewSangChong69_0000
+    400484: NewSangChong69_0000 1
+    400486: NewSangChong6_0000
+    400488: NewSangChong6_0000 1
+    400490: NewSangChong70
+    400492: NewSangChong70 1
+    400494: NewSangChong70_0000
+    400496: NewSangChong70_0000 1
+    400498: NewSangChong71
+    400500: NewSangChong71 1
+    400502: NewSangChong71_0000
+    400504: NewSangChong71_0000 1
+    400506: NewSangChong72
+    400508: NewSangChong72 1
+    400510: NewSangChong72_0000
+    400512: NewSangChong72_0000 1
+    400514: NewSangChong73
+    400516: NewSangChong73 1
+    400518: NewSangChong73_0000
+    400520: NewSangChong73_0000 1
+    400522: NewSangChong74
+    400524: NewSangChong74 1
+    400526: NewSangChong74_0000
+    400528: NewSangChong74_0000 1
+    400530: NewSangChong75
+    400532: NewSangChong75 1
+    400534: NewSangChong75_0000
+    400536: NewSangChong75_0000 1
+    400538: NewSangChong76
+    400540: NewSangChong76 1
+    400542: NewSangChong76_0000
+    400544: NewSangChong76_0000 1
+    400546: NewSangChong77
+    400548: NewSangChong77 1
+    400550: NewSangChong77_0000
+    400552: NewSangChong77_0000 1
+    400554: NewSangChong78
+    400556: NewSangChong78 1
+    400558: NewSangChong78_0000
+    400560: NewSangChong78_0000 1
+    400562: NewSangChong79
+    400564: NewSangChong79 1
+    400566: NewSangChong79_0000
+    400568: NewSangChong79_0000 1
+    400570: NewSangChong8
+    400572: NewSangChong8 1
+    400574: NewSangChong80
+    400576: NewSangChong80 1
+    400578: NewSangChong80_0000
+    400580: NewSangChong80_0000 1
+    400582: NewSangChong82
+    400584: NewSangChong82 1
+    400586: NewSangChong82_0000
+    400588: NewSangChong82_0000 1
+    400590: NewSangChong83
+    400592: NewSangChong83 1
+    400594: NewSangChong83_0000
+    400596: NewSangChong83_0000 1
+    400598: NewSangChong85
+    400600: NewSangChong85 1
+    400602: NewSangChong85_0000
+    400604: NewSangChong85_0000 1
+    400606: NewSangChong86
+    400608: NewSangChong86 1
+    400610: NewSangChong86_0000
+    400612: NewSangChong86_0000 1
+    400614: NewSangChong87
+    400616: NewSangChong87 1
+    400618: NewSangChong87_0000
+    400620: NewSangChong87_0000 1
+    400622: NewSangChong88
+    400624: NewSangChong88 1
+    400626: NewSangChong88_0000
+    400628: NewSangChong88_0000 1
+    400630: NewSangChong89
+    400632: NewSangChong89 1
+    400634: NewSangChong89_0000
+    400636: NewSangChong89_0000 1
+    400638: NewSangChong8_0000
+    400640: NewSangChong8_0000 1
+    400642: NewSangChong9
+    400644: NewSangChong9 1
+    400646: NewSangChong90
+    400648: NewSangChong90 1
+    400650: NewSangChong90_0000
+    400652: NewSangChong90_0000 1
+    400654: NewSangChong91
+    400656: NewSangChong91 1
+    400658: NewSangChong91_0000
+    400660: NewSangChong91_0000 1
+    400662: NewSangChong92
+    400664: NewSangChong92 1
+    400666: NewSangChong92_0000
+    400668: NewSangChong92_0000 1
+    400670: NewSangChong9_0000
+    400672: NewSangChong9_0000 1
+    400674: Root
+    400676: Root 1
+    400678: SourceData
+    400680: //RootNode
+    2100000: No Name
+    2300000: NewSangChong10_0000
+    2300002: NewSangChong11_0000
+    2300004: NewSangChong12_0000
+    2300006: NewSangChong13_0000
+    2300008: NewSangChong14_0000
+    2300010: NewSangChong15_0000
+    2300012: NewSangChong16_0000
+    2300014: NewSangChong17_0000
+    2300016: NewSangChong18_0000
+    2300018: NewSangChong19_0000
+    2300020: NewSangChong1_0000
+    2300022: NewSangChong20_0000
+    2300024: NewSangChong21_0000
+    2300026: NewSangChong22_0000
+    2300028: NewSangChong23_0000
+    2300030: NewSangChong24_0000
+    2300032: NewSangChong25_0000
+    2300034: NewSangChong26_0000
+    2300036: NewSangChong27_0000
+    2300038: NewSangChong28_0000
+    2300040: NewSangChong29_0000
+    2300042: NewSangChong2_0000
+    2300044: NewSangChong32_0000
+    2300046: NewSangChong33_0000
+    2300048: NewSangChong34_0000
+    2300050: NewSangChong35_0000
+    2300052: NewSangChong36_0000
+    2300054: NewSangChong37_0000
+    2300056: NewSangChong38_0000
+    2300058: NewSangChong39_0000
+    2300060: NewSangChong3_0000
+    2300062: NewSangChong40_0000
+    2300064: NewSangChong42_0000
+    2300066: NewSangChong43_0000
+    2300068: NewSangChong46_0000
+    2300070: NewSangChong47_0000
+    2300072: NewSangChong48_0000
+    2300074: NewSangChong49_0000
+    2300076: NewSangChong4_0000
+    2300078: NewSangChong50_0000
+    2300080: NewSangChong51_0000
+    2300082: NewSangChong52_0000
+    2300084: NewSangChong53_0000
+    2300086: NewSangChong55_0000
+    2300088: NewSangChong56_0000
+    2300090: NewSangChong57_0000
+    2300092: NewSangChong58_0000
+    2300094: NewSangChong59_0000
+    2300096: NewSangChong5_0000
+    2300098: NewSangChong60_0000
+    2300100: NewSangChong61_0000
+    2300102: NewSangChong62_0000
+    2300104: NewSangChong63_0000
+    2300106: NewSangChong64_0000
+    2300108: NewSangChong65_0000
+    2300110: NewSangChong66_0000
+    2300112: NewSangChong67_0000
+    2300114: NewSangChong68_0000
+    2300116: NewSangChong69_0000
+    2300118: NewSangChong6_0000
+    2300120: NewSangChong70_0000
+    2300122: NewSangChong71_0000
+    2300124: NewSangChong72_0000
+    2300126: NewSangChong73_0000
+    2300128: NewSangChong74_0000
+    2300130: NewSangChong75_0000
+    2300132: NewSangChong76_0000
+    2300134: NewSangChong77_0000
+    2300136: NewSangChong78_0000
+    2300138: NewSangChong79_0000
+    2300140: NewSangChong80_0000
+    2300142: NewSangChong82_0000
+    2300144: NewSangChong83_0000
+    2300146: NewSangChong85_0000
+    2300148: NewSangChong86_0000
+    2300150: NewSangChong87_0000
+    2300152: NewSangChong88_0000
+    2300154: NewSangChong89_0000
+    2300156: NewSangChong8_0000
+    2300158: NewSangChong90_0000
+    2300160: NewSangChong91_0000
+    2300162: NewSangChong92_0000
+    2300164: NewSangChong9_0000
+    3300000: NewSangChong10_0000
+    3300002: NewSangChong11_0000
+    3300004: NewSangChong12_0000
+    3300006: NewSangChong13_0000
+    3300008: NewSangChong14_0000
+    3300010: NewSangChong15_0000
+    3300012: NewSangChong16_0000
+    3300014: NewSangChong17_0000
+    3300016: NewSangChong18_0000
+    3300018: NewSangChong19_0000
+    3300020: NewSangChong1_0000
+    3300022: NewSangChong20_0000
+    3300024: NewSangChong21_0000
+    3300026: NewSangChong22_0000
+    3300028: NewSangChong23_0000
+    3300030: NewSangChong24_0000
+    3300032: NewSangChong25_0000
+    3300034: NewSangChong26_0000
+    3300036: NewSangChong27_0000
+    3300038: NewSangChong28_0000
+    3300040: NewSangChong29_0000
+    3300042: NewSangChong2_0000
+    3300044: NewSangChong32_0000
+    3300046: NewSangChong33_0000
+    3300048: NewSangChong34_0000
+    3300050: NewSangChong35_0000
+    3300052: NewSangChong36_0000
+    3300054: NewSangChong37_0000
+    3300056: NewSangChong38_0000
+    3300058: NewSangChong39_0000
+    3300060: NewSangChong3_0000
+    3300062: NewSangChong40_0000
+    3300064: NewSangChong42_0000
+    3300066: NewSangChong43_0000
+    3300068: NewSangChong46_0000
+    3300070: NewSangChong47_0000
+    3300072: NewSangChong48_0000
+    3300074: NewSangChong49_0000
+    3300076: NewSangChong4_0000
+    3300078: NewSangChong50_0000
+    3300080: NewSangChong51_0000
+    3300082: NewSangChong52_0000
+    3300084: NewSangChong53_0000
+    3300086: NewSangChong55_0000
+    3300088: NewSangChong56_0000
+    3300090: NewSangChong57_0000
+    3300092: NewSangChong58_0000
+    3300094: NewSangChong59_0000
+    3300096: NewSangChong5_0000
+    3300098: NewSangChong60_0000
+    3300100: NewSangChong61_0000
+    3300102: NewSangChong62_0000
+    3300104: NewSangChong63_0000
+    3300106: NewSangChong64_0000
+    3300108: NewSangChong65_0000
+    3300110: NewSangChong66_0000
+    3300112: NewSangChong67_0000
+    3300114: NewSangChong68_0000
+    3300116: NewSangChong69_0000
+    3300118: NewSangChong6_0000
+    3300120: NewSangChong70_0000
+    3300122: NewSangChong71_0000
+    3300124: NewSangChong72_0000
+    3300126: NewSangChong73_0000
+    3300128: NewSangChong74_0000
+    3300130: NewSangChong75_0000
+    3300132: NewSangChong76_0000
+    3300134: NewSangChong77_0000
+    3300136: NewSangChong78_0000
+    3300138: NewSangChong79_0000
+    3300140: NewSangChong80_0000
+    3300142: NewSangChong82_0000
+    3300144: NewSangChong83_0000
+    3300146: NewSangChong85_0000
+    3300148: NewSangChong86_0000
+    3300150: NewSangChong87_0000
+    3300152: NewSangChong88_0000
+    3300154: NewSangChong89_0000
+    3300156: NewSangChong8_0000
+    3300158: NewSangChong90_0000
+    3300160: NewSangChong91_0000
+    3300162: NewSangChong92_0000
+    3300164: NewSangChong9_0000
+    4300000: NewSangChong79_0000
+    4300002: NewSangChong1_0000
+    4300004: NewSangChong2_0000
+    4300006: NewSangChong3_0000
+    4300008: NewSangChong4_0000
+    4300010: NewSangChong5_0000
+    4300012: NewSangChong6_0000
+    4300014: NewSangChong80_0000
+    4300016: NewSangChong8_0000
+    4300018: NewSangChong9_0000
+    4300020: NewSangChong10_0000
+    4300022: NewSangChong12_0000
+    4300024: NewSangChong11_0000
+    4300026: NewSangChong85_0000
+    4300028: NewSangChong82_0000
+    4300030: NewSangChong83_0000
+    4300032: NewSangChong13_0000
+    4300034: NewSangChong14_0000
+    4300036: NewSangChong86_0000
+    4300038: NewSangChong87_0000
+    4300040: NewSangChong15_0000
+    4300042: NewSangChong88_0000
+    4300044: NewSangChong16_0000
+    4300046: NewSangChong17_0000
+    4300048: NewSangChong89_0000
+    4300050: NewSangChong18_0000
+    4300052: NewSangChong19_0000
+    4300054: NewSangChong20_0000
+    4300056: NewSangChong90_0000
+    4300058: NewSangChong21_0000
+    4300060: NewSangChong22_0000
+    4300062: NewSangChong23_0000
+    4300064: NewSangChong24_0000
+    4300066: NewSangChong25_0000
+    4300068: NewSangChong26_0000
+    4300070: NewSangChong27_0000
+    4300072: NewSangChong28_0000
+    4300074: NewSangChong29_0000
+    4300076: NewSangChong92_0000
+    4300078: NewSangChong91_0000
+    4300080: NewSangChong32_0000
+    4300082: NewSangChong33_0000
+    4300084: NewSangChong34_0000
+    4300086: NewSangChong35_0000
+    4300088: NewSangChong36_0000
+    4300090: NewSangChong37_0000
+    4300092: NewSangChong38_0000
+    4300094: NewSangChong39_0000
+    4300096: NewSangChong40_0000
+    4300098: NewSangChong42_0000
+    4300100: NewSangChong43_0000
+    4300102: NewSangChong46_0000
+    4300104: NewSangChong47_0000
+    4300106: NewSangChong48_0000
+    4300108: NewSangChong49_0000
+    4300110: NewSangChong50_0000
+    4300112: NewSangChong51_0000
+    4300114: NewSangChong52_0000
+    4300116: NewSangChong53_0000
+    4300118: NewSangChong55_0000
+    4300120: NewSangChong56_0000
+    4300122: NewSangChong57_0000
+    4300124: NewSangChong58_0000
+    4300126: NewSangChong59_0000
+    4300128: NewSangChong60_0000
+    4300130: NewSangChong61_0000
+    4300132: NewSangChong62_0000
+    4300134: NewSangChong64_0000
+    4300136: NewSangChong65_0000
+    4300138: NewSangChong66_0000
+    4300140: NewSangChong67_0000
+    4300142: NewSangChong68_0000
+    4300144: NewSangChong69_0000
+    4300146: NewSangChong70_0000
+    4300148: NewSangChong71_0000
+    4300150: NewSangChong72_0000
+    4300152: NewSangChong73_0000
+    4300154: NewSangChong74_0000
+    4300156: NewSangChong75_0000
+    4300158: NewSangChong76_0000
+    4300160: NewSangChong77_0000
+    4300162: NewSangChong78_0000
+    4300164: NewSangChong63_0000
+    7400000: anim_stack
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 79b996cddecf46a429d0469b8f48f25e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
